@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @Nathalybraz
 - 👀 Tenho interresse em... Aprender cursos tecnológicos
 - 🌱 Atualmente estou aprendendo... pensamento computologico
-- 💞️ Estou procurando colaborar em... tudo que estiver a minha disposição e alcance
+- 💞️ Estou procurando colaborar em... tudo que estiver a minha disposição e alcance MYG
 - 📫 Como chegar até mim... via whatsApp 
 
 <!---
